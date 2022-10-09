@@ -1,0 +1,5 @@
+
+@baseurl = http://localhost:8000/api
+
+POST {{baseurl}}/login
+Content-Type: application/json
